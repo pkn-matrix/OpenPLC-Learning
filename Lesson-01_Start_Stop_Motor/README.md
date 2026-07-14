@@ -69,16 +69,16 @@ This logic is commonly used in:
 
 ## Ladder Diagram
 
-![Ladder Diagram](images/ladder_diagram.png)
+![Ladder Diagram](Images/ladder_diagram.png)
 
 ---
 
 ## Simulation - Motor Running
 
-![Motor Running](images/simulation_motor_on.png)
+![Motor Running](Images/simulation_motor_on.png)
 
 ---
 
 ## Simulation - Motor Stopped
 
-![Motor Stopped](images/simulation_motor_off.png)
+![Motor Stopped](Images/simulation_motor_off.png)
