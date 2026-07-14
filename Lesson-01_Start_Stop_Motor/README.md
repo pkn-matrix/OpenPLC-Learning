@@ -66,3 +66,19 @@ This logic is commonly used in:
 ## Status
 
 ✅ Completed
+
+## Ladder Diagram
+
+![Ladder Diagram](images/ladder_diagram.png)
+
+---
+
+## Simulation - Motor Running
+
+![Motor Running](images/simulation_motor_on.png)
+
+---
+
+## Simulation - Motor Stopped
+
+![Motor Stopped](images/simulation_motor_off.png)
