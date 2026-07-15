@@ -1,3 +1,4 @@
+Updated
 # PLC-Automation-Portfolio
 
 This repository documents my hands-on journey of learning PLC programming using OpenPLC through practical industrial automation projects.
@@ -6,7 +7,7 @@ This repository documents my hands-on journey of learning PLC programming using 
 
 ## Goal
 
-Build practical PLC programming skills by implementing real industrial automation projects using Ladder Logic and OpenPLC.
+Develop practical PLC programming skills by implementing real-world industrial automation projects using OpenPLC and Ladder Logic.
 
 ---
 
@@ -50,9 +51,7 @@ Build practical PLC programming skills by implementing real industrial automatio
 
 B.Tech Mechatronics Engineering (2026)
 
-Aspiring Automation Engineer
-
-Learning Industrial Automation and PLC Programming through practical projects.
+Aspiring Automation Engineer with a focus on PLC Programming, Industrial Automation, and Control Systems. This portfolio documents my hands-on learning journey using OpenPLC.
 
 ---
 
