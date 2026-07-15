@@ -12,10 +12,11 @@ Build practical PLC programming skills by implementing real industrial automatio
 
 ## Skills Covered
 
-- Ladder Logic
 - PLC Programming
-- Motor Control
 - Industrial Automation
+- Motor Control Logic
+- Timers (TON)
+- Start/Stop Control Circuits
 
 ---
 
@@ -24,8 +25,8 @@ Build practical PLC programming skills by implementing real industrial automatio
 | Lesson | Project | Status |
 |---------|---------|--------|
 | 01 | Start/Stop Motor | ✅ |
-| 02 | TON Timer | ⏳ |
-| 03 | CTU Counter | ⏳ |
+| 02 | TON (On-Delay Timer) | ✅ | 
+| 03 | CTU Counter | ⏭️ |
 | 04 | TOF Timer | ⏳ |
 | 05 | Traffic Light Controller | ⏳ |
 | 06 | Conveyor System | ⏳ |
@@ -56,3 +57,9 @@ Learning Industrial Automation and PLC Programming through practical projects.
 ---
 
 ⭐ This repository is continuously updated as I complete new PLC programming projects.
+
+## Learning Progress
+
+Completed: **2 / 10 Lessons**
+
+🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜
