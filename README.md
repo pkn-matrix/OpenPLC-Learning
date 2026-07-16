@@ -14,10 +14,14 @@ Develop practical PLC programming skills by implementing real-world industrial a
 ## Skills Covered
 
 - PLC Programming
+- Ladder Logic (IEC 61131-3)
 - Industrial Automation
 - Motor Control Logic
-- Timers (TON)
 - Start/Stop Control Circuits
+- On-Delay Timers (TON)
+- Count Up Counters (CTU)
+- Rising Edge Detection
+- Conveyor Control Logic
 
 ---
 
@@ -27,7 +31,7 @@ Develop practical PLC programming skills by implementing real-world industrial a
 |---------|---------|--------|
 | 01 | Start/Stop Motor | ✅ |
 | 02 | TON (On-Delay Timer) | ✅ | 
-| 03 | CTU Counter | ⏭️ |
+| 03 | Product Counter using CTU | ✅ |
 | 04 | TOF Timer | ⏳ |
 | 05 | Traffic Light Controller | ⏳ |
 | 06 | Conveyor System | ⏳ |
@@ -59,6 +63,6 @@ Aspiring Automation Engineer with a focus on PLC Programming, Industrial Automat
 
 ## Learning Progress
 
-Completed: **2 / 10 Lessons**
+Completed: **3 / 10 Lessons**
 
-🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜
+🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜
