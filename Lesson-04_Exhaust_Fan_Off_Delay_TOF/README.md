@@ -103,19 +103,11 @@ The operator presses the START push button. The machine starts immediately, and 
 
 ---
 
-### 2. STOP Button Pressed
+### 2. Fan Running During Off-Delay
 
-The STOP button is pressed. The machine stops immediately, while the TOF begins its off-delay timing.
+When the STOP button is pressed, the machine stops immediately. The TOF timer starts its 10-second countdown while the exhaust fan continues running to remove residual heat.
 
-![STOP Pressed](images/stop_pressed.png)
-
----
-
-### 3. Fan Running During Delay
-
-Although the machine has already stopped, the exhaust fan continues operating while the TOF counts the preset delay time.
-
-![Fan Delay](images/fan_delay.png)
+![Fan Running During Off-Delay](images/fan_delay.png)
 
 ---
 
