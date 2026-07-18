@@ -111,7 +111,7 @@ When the STOP button is pressed, the machine stops immediately. The TOF timer st
 
 ---
 
-### 4. Fan Stops After 10 Seconds
+### 3. Fan Stops After 10 Seconds
 
 After the 10-second off-delay expires, the TOF output becomes FALSE and the exhaust fan turns OFF automatically.
 
